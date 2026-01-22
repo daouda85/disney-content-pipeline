@@ -108,4 +108,3 @@ disney-content-pipeline/
 This project is licensed under the MIT License - see the LICENSE file for details.
 ```
 
-Copy and paste this entire text exactly as shown.
